@@ -1,0 +1,26 @@
+/* Fill CSS here */
+h1{
+    text-align: center;
+    color: rgb(30, 180, 239);
+}
+
+body>div>table{
+    margin-left: 30%;
+    margin-top: -430px;
+    border: 1px solid red;
+    width: 70%;
+}
+body>div>table>thead>tr{
+    padding: 15px;
+    background-color: skyblue;
+}
+form{
+    width: 18%;
+    padding: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    
+}
+input{
+    
+    margin-bottom: 20px;
+}
